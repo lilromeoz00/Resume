@@ -30,9 +30,8 @@ I recommend looking at the following projects, they are my favorite!
   - [KFold for Neural Nets](https://github.com/lilromeoz00/DS-Projects/blob/main/KFold%20Cross%20Val%20for%20NN/kfold-example-project-company-bankcruptcy.ipynb)
 
 And the one I use most often :
-  - [Auto Open Jupyter Notebook (or lab)](https://github.com/lilromeoz00/DS-Projects/tree/main/Auto%20Open%20Jupyter%20Lab)
+  - [Auto Open Jupyter Notebook (or Lab)](https://github.com/lilromeoz00/DS-Projects/tree/main/Auto%20Open%20Jupyter%20Lab)
 
-<br>
 ## 👨‍🎓 Education
 
 **Bachelor of Science** in Computer Science (Will complete summer 2022)<br>
