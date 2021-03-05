@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Jordan Moore
 
-You can use the [editor on GitHub](https://github.com/lilromeoz00/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Machine Learning Engineer Hopeful, Coming to DC soon_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:JordanMooreNav@gmail.com.com) | [GitHub](https://github.com/lilromeoz00/) 
 
-### Markdown
+## ✒️Professional Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Candy Man Boxes** - [TikTok](https://www.tiktok.com/@candymantiktok?source=h5_m) _(July 2020 - August 2020)_ <br>
+Self-built and created an online candy store from scratch. 
+  - Opened for a Month only and generated over $2500 in revenue from $200 inital invesment
+  - Sold in early September
+  - Handled every part of this store from marketing & shipping to taxes & product development
 
-```markdown
-Syntax highlighted code block
+**MIT Future Maker** - [Website](https://aieducation.mit.edu/) _(April 2021)_ <br>
+Will teach a local cohort of 12 Middle - High School aged kids about Machine Learning Projects & Applications.
+  - 5 day Virtual program hosted & lead my Myself and another educator
+  - Projects consit of a wide range of material like Copmputer Vision, NLP, or Biotech
+  - Training beforehand will be held by MIT Educators
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## 👨‍💻 Technical Experience
 
-1. Numbered
-2. List
+**Machine Learning Projects** - [See Them Here!](https://github.com/lilromeoz00/DS-Projects)
+My github DS Project page hosts a variety of Machine Learning & Data Science projects that I am proud of.
+I recommend looking at the following projects, they are my favorite!
+  - [Deep Neural Network from Scratch](https://github.com/lilromeoz00/DS-Projects/tree/main/Multi%20Layer%20Neural%20Network%20from%20Scratch)
+  - [CNN Mnist Ensemble (Kaggle Top 2%)](https://github.com/lilromeoz00/DS-Projects/tree/main/CNN%20Mnist%20Ensemble)
+  - [Human Emotion Detection](https://github.com/lilromeoz00/DS-Projects/tree/main/Emotion%20Detection)
+  - [KFold for Neural Nets](https://github.com/lilromeoz00/DS-Projects/blob/main/KFold%20Cross%20Val%20for%20NN/kfold-example-project-company-bankcruptcy.ipynb)
+And the one I use most often :
+  - [Auto Open Jupyter Notebook (or lab)](https://github.com/lilromeoz00/DS-Projects/tree/main/Auto%20Open%20Jupyter%20Lab)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## 👨‍🎓 Education
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Bachelor of Science** in Computer Science (Will complete summer 2022)<br>
+University of Maryland GC - Adelphi, Maryland, USA _(2021 - Present)_
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lilromeoz00/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
