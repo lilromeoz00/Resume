@@ -32,7 +32,7 @@ I recommend looking at the following projects, they are my favorite!
 And the one I use most often :
   - [Auto Open Jupyter Notebook (or lab)](https://github.com/lilromeoz00/DS-Projects/tree/main/Auto%20Open%20Jupyter%20Lab)
 
-<br><br>
+<br>
 ## 👨‍🎓 Education
 
 **Bachelor of Science** in Computer Science (Will complete summer 2022)<br>
