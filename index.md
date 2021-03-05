@@ -17,7 +17,7 @@ Will teach a local cohort of 12 Middle - High School aged kids about Machine Lea
   - 5 day Virtual program hosted & lead my Myself and another educator
   - Projects consit of a wide range of material like Copmputer Vision, NLP, or Biotech
   - Training beforehand will be held by MIT Educators
-
+<br><br>
 
 ## 👨‍💻 Technical Experience
 
@@ -28,10 +28,11 @@ I recommend looking at the following projects, they are my favorite!
   - [CNN Mnist Ensemble (Kaggle Top 2%)](https://github.com/lilromeoz00/DS-Projects/tree/main/CNN%20Mnist%20Ensemble)
   - [Human Emotion Detection](https://github.com/lilromeoz00/DS-Projects/tree/main/Emotion%20Detection)
   - [KFold for Neural Nets](https://github.com/lilromeoz00/DS-Projects/blob/main/KFold%20Cross%20Val%20for%20NN/kfold-example-project-company-bankcruptcy.ipynb)
+
 And the one I use most often :
   - [Auto Open Jupyter Notebook (or lab)](https://github.com/lilromeoz00/DS-Projects/tree/main/Auto%20Open%20Jupyter%20Lab)
 
-
+<br><br>
 ## 👨‍🎓 Education
 
 **Bachelor of Science** in Computer Science (Will complete summer 2022)<br>
