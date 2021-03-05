@@ -31,6 +31,7 @@ I recommend looking at the following projects, they are my favorite!
 
 And the one I use most often :
   - [Auto Open Jupyter Notebook (or Lab)](https://github.com/lilromeoz00/DS-Projects/tree/main/Auto%20Open%20Jupyter%20Lab)
+<br><br>
 
 ## 👨‍🎓 Education
 
