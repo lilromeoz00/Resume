@@ -32,8 +32,7 @@ I recommend looking at the following projects, they are my favorite!
 And the one I use most often :
   - [Auto Open Jupyter Notebook (or Lab)](https://github.com/lilromeoz00/DS-Projects/tree/main/Auto%20Open%20Jupyter%20Lab)
 
-**Languages & Libraries**
-Some of the langauges and libraries I either use in my personal projects or have knowledge in
+**Languages & Libraries** - Some of the langauges and libraries I either use in my personal projects or have knowledge in
   - Python & SQL
   - Tensoflow + Keras
   - Matplotlib, Seaborn, Pandas, Sklearn, etc (The typical Data Science libraries)
