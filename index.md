@@ -18,8 +18,7 @@ Will teach a local cohort of 12 Middle - High School aged kids about Machine Lea
   - Projects consit of a wide range of material like Copmputer Vision, NLP, or Biotech
   - Training beforehand will be held by MIT Educators
 <br><br>
-
-
+<br>
 ## 👨‍💻 Technical Experience
 
 **Machine Learning Projects** - [See Them Here!](https://github.com/lilromeoz00/DS-Projects)
