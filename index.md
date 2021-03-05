@@ -3,7 +3,7 @@
 _Machine Learning Engineer Hopeful, Coming to DC soon_ <br>
 
 [Email](mailto:JordanMooreNav@gmail.com.com) | [GitHub](https://github.com/lilromeoz00/) 
-
+<br>
 ## ✒️Professional Experience
 
 **Candy Man Boxes** - [TikTok](https://www.tiktok.com/@candymantiktok?source=h5_m) _(July 2020 - August 2020)_ <br>
