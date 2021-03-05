@@ -2,7 +2,7 @@
 
 _Machine Learning Engineer Hopeful, Coming to DC soon_ <br>
 
-[Email](mailto:JordanMooreNav@gmail.com.com) | [GitHub](https://github.com/lilromeoz00/) 
+[Email](mailto:JordanMooreNav@gmail.com.com) | [GitHub](https://github.com/lilromeoz00/) | [Better Viewed on my website](https://lilromeoz00.github.io/Resume/)
 <br>
 ## ✒️Professional Experience
 
