@@ -4,3 +4,9 @@ description: Jordan Moore Resume
 
 - name: Webpage to PDF
   uses: misaelnieto/web_to_pdf_action@v0.3.1
+    with:
+    webPageURL: https://lilromeoz00.github.io/Resume/
+    outputFile: C:\Users\jordan\desktop\res.pdf
+    usePuppeteer: true
+    useScreen: true
+    pdfOptions: '{"format": "Letter", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
