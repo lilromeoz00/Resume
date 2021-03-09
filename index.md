@@ -25,6 +25,7 @@ Will teach a local cohort of 12 Middle - High School aged kids about Machine Lea
 My github DS Project page hosts a variety of Machine Learning & Data Science projects that I am proud of.
 I recommend looking at the following projects, they are my favorite!
   - [Deep Neural Network from Scratch](https://github.com/lilromeoz00/DS-Projects/tree/main/Multi%20Layer%20Neural%20Network%20from%20Scratch)
+  - [One-Shot Face ID using Siamese DenseNets](https://github.com/lilromeoz00/One-Shot-Face-Detection-w-Neural-Network)
   - [CNN Mnist Ensemble (Kaggle Top 2%)](https://github.com/lilromeoz00/DS-Projects/tree/main/CNN%20Mnist%20Ensemble)
   - [Human Emotion Detection](https://github.com/lilromeoz00/DS-Projects/tree/main/Emotion%20Detection)
   - [KFold for Neural Nets](https://github.com/lilromeoz00/DS-Projects/blob/main/KFold%20Cross%20Val%20for%20NN/kfold-example-project-company-bankcruptcy.ipynb)
