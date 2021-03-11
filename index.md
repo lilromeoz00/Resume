@@ -15,7 +15,7 @@ Self-built and created an online candy store from scratch.
 **MIT Future Maker** - [Website](https://aieducation.mit.edu/) _(April 2021)_ <br>
 Will teach a local cohort of 12 Middle - High School aged kids about Machine Learning Projects & Applications.
   - 5 day Virtual program hosted & lead my Myself and another educator
-  - Projects consit of a wide range of material like Copmputer Vision, NLP, or Biotech
+  - Projects consit of a wide range of material like Computer Vision, NLP, or Biotech
   - Training beforehand will be held by MIT Educators
 <br><br>
 
